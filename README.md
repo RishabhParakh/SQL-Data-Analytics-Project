@@ -69,7 +69,7 @@ These techniques were used to simulate complex business reporting and dashboard-
 
 ## 📊 Diagram Overview
 
-![SQL Analytics Diagram](./SQL%20Data%20Analytics.png)
+![SQL Analytics Diagram](docs/SQL_Data_Analytics.png)
 
 1. **Exploratory Analysis**: Schema, dimensions, date filtering, KPIs  
 2. **Advanced Analytics**: Cumulative totals, trend tracking, ranking  
