@@ -89,7 +89,7 @@ These techniques were used to simulate complex business reporting and dashboard-
 ## 🧑‍💻 Author
 
 **Rishabh Parakh**  
-[LinkedIn](https://www.linkedin.com/in/rishabhparakh) • [GitHub](https://github.com/RishabhParakh)
+[LinkedIn](http://www.linkedin.com/in/rishabh-parakh-4465031a0) • [GitHub](https://github.com/RishabhParakh)
 
 ---
 
